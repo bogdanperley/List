@@ -1,0 +1,4 @@
+﻿  list.cpp
+C:\Users\Acer_570G(Bohdan)\Desktop\Projects\List\list.cpp(9,7): error C2600: List::List: нельзя определить специальную функцию-член, созданную компилятором (сначала необходимо объявить ее в классе)
+  main.cpp
+  Создание кода...
